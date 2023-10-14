@@ -17,6 +17,7 @@ h5,
 h6 {
   font-family: "Playfair Display", serif;
   margin-bottom: 1em;
+
 }
 
 nav {
@@ -57,6 +58,11 @@ nav a:active {
 
 #home {
   background-color: cornsilk;
+
+}
+
+#home h1{
+  color: firebrick;
 }
 
 #about img {
